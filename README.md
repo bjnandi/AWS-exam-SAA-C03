@@ -41,31 +41,31 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |4|EC2               |Elastic Compute Cloud (EC2) is a highly configurable virtual server. EC2 is resizable compute capacity. It takes minutes to launch new instances. Anything and everything on AWS uses EC2 Instance underneath.|
 |5|AMIs               |Amazon Machine Image (AMI) provides the information required to launch an instance. You can turn your EC2 instances into AMIs so you can create copies of your servers.|
 |6|ASG               |An Auto Scaling Group (ASG) contains a collection of EC2 instances that are treated as a group for the purposes of automatic scaling and management.|
-|7|ELB               |Elastic Load Balancer (ELB) is a suite of load balancers used to balance/distribute traffic to multiple EC2, ECS, Fargate and EKS instances|
+|7|ELB               |Elastic Load Balancer (ELB) is a suite of load balancers used to balance/distribute traffic to multiple EC2, ECS, Fargate and EKS instances.|
 |8|Route 53          |Route 53 is a Domain Name Service (DNS) think GoDaddy or NameCheap but with integrations with AWS Services.|
 |9|CloudFront        | CloudFront is a CDN that can be used to deliver content. A CDN (Content Delivery Network) is a distributed network of servers that delivers web pages and content to users based on their geographical location, the origin of the webpage, and a content delivery server.|
 |10|EBS               |Elastic Block Store (EBS) is a highly available and durable solution for attaching persistent block storage volumes to an EC2 instance.|
-|11|EFS               |Elastic File System (EFS) is a file storage service for EC2 instances|
+|11|EFS               |Elastic File System (EFS) is a file storage service for EC2 instances.|
 |12|FSx               |Amazon FSx allows you deploy scale feature-rich, high-performance file systems in the cloud. FXs supports a variety of file system protocols of NetApp ONTAP, OpenZFS, Windows File Server (WFS), Lustre. |
 |13|AWS Backup        |AWS Backup allows you centrally manage backups across AWS Services.|
-|14|AWS Snow          |AWS Snow Family are storage and compute devices used to physically move data in or out the cloud when moving data over the internet or private connection it to slow, difficult or costly. Types of Snow: Snowcone, Snowball Edge, Snowmobile bob)|
+|14|AWS Snow          |AWS Snow Family are storage and compute devices used to physically move data in or out the cloud when moving data over the internet or private connection it to slow, difficult or costly. Three types of Snow: Snowcone, Snowball Edge, Snowmobile.|
 |15|AWS Transfer      |AWS Transfer Family offers fully managed support for the transfer of files over SFTP (Secure File Transfer Protocol), AS2 (Applicability Statement 2), FTPS (FTP Secure or FTP-SSL), and FTP (File Transfer Protocol) directly into and out of Amazon S3 or Amazon EFS.|
 |16|AWS Migration Hub |AWS Migration Hub is a single place to discover your existing servers, plan migrations, and track the status of each application migration.|
-|17|AWS DataSync       |AWS DataSync is a data transfer service that simplifies data migration to, from, and between cloud storage services|
+|17|AWS DataSync       |AWS DataSync is a data transfer service that simplifies data migration to, from, and between cloud storage services.|
 |18|DMS               |AWS Database Migration Service (DMS) allows you to quickly and securely migrate one database to another. DMS can be used to migrate your on-premise database to AWS.|
 |19|AWS Auto Scaling  |AWS Auto Scaling is a service that can discover scaling resources within your AWS Account, and quickly add scaling plans to your scaling resources.|
 |20|AWS Amplify        |AWS Amplify is an opinionated framework and fully-managed infrastructure to allow developers to focus on building web and mobile applications.|
 |21|Amazon AppFlow    | Amazon AppFlow is managed integration service for data transfer between data sources. Easily exchange data with over 80+ cloud services. By specifying a source and destination.|
 |22|AppSync               |AppSync is a fully managed GraphQL service.|
 |23|AWS Batch               |AWS Batch plans, schedules, and executes your batch computing workloads across the full range of AWS compute services, can utilize Spot Instance to save money.|
-|24|Amazon OpenSearch  |Amazon OpenSearch Service is a managed full-text search service that makes it easy to deploy, operate, and scale OpenSearch, a popular open-source search and analytics engine Two engines can be deployed: OpenSearch and ElasticSearch|
-|25|AWS Device Farm   |AWS Device Farm is an application testing service to test your applications in different environments.The Testing is Mobile Device Testing & Desktop Browser Testing|
+|24|Amazon OpenSearch  |Amazon OpenSearch Service is a managed full-text search service that makes it easy to deploy, operate, and scale OpenSearch, a popular open-source search and analytics engine. Two engines can be deployed: OpenSearch and ElasticSearch.|
+|25|AWS Device Farm   |AWS Device Farm is an application testing service to test your applications in different environments.The Testing is Mobile Device Testing & Desktop Browser Testing.|
 |26|QLDB               |Amazon Quantum Ledger Database(QLDB) is a fully managed ledger database that provides transparent, immutable and cryptographically variable transaction logs.|
 |27|AWS Elastic Transcoder                |AWS Elastic Transcoder is a fully-managed video-transcoding service that converts Videos from one format to another for Video on Demand (VOD) or streaming video.|
 |28|AWS Media Convert                |AWS Media Convert is a fully-managed video-transcoding service that converts videos from one format to another for Video on Demand (VOD) or streaming video in addition to applying lots of additional processing options.|
-|29|SNS               |Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. It's two Type A2A, A2P|
-|30|SQS        |Simple Queueing Service (SQS) is a fully managed queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It's two Type Stander, FIFO|
-|31|Amazon MQ         |Amazon MQ is a managed message broker service for the opensource projects Apache ActiveMQ and RabbitMQ|
+|29|SNS               |Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications. It's two Types: A2A, A2P.|
+|30|SQS        |Simple Queueing Service (SQS) is a fully managed queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It's two Types: Stander, FIFO.|
+|31|Amazon MQ         |Amazon MQ is a managed message broker service for the opensource projects Apache ActiveMQ and RabbitMQ.|
 |32|AWS Service Catalog |AWS Service Catalog enables organizations to create and manage catalogs of products that are approved for use on AWS to achieve consistent governance and meet compliance requirements. The AWS Service Catalog is an alternative to granting direct access to AWS resources via the AWS Console.|
 |33|AWS CloudWatch    |AWS CloudWatch is a monitoring solution for your AWS resources CloudWatch is an an umbrella service meaning that is is really a collection of monitoring tools as follows: Logs, Metrics, Events, Alarms, Dashboards, ServiceLens, Container Insights, Synthetics, Contributor Insights.  |
 |34|Amazon EventBridge |Amazon EventBridge is a serverless event bus that ingests data from your own apps, SaaS apps, and AWS services and routes that data to targets.|
@@ -78,19 +78,19 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |41|Amazon MemoryDB  |Amazon MemoryDB is a Redis-compatible in-memory database for ultra-fast performance.|
 |42|AWS CloudTrail |AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account CloudTrail is already logging by default and will collect logs for last 90 days via Event History.|
 |43|Amazon Redshift |Fully Managed Petabyte-size Data Warehouse. Analyze (Run complex SQL queries) on massive amounts of data Columnar Store database.|
-|44|Amazon Athena    |Amazon Athena is an interactive query service that makes it easy to analyze data directly from s3. Athena is based off the open-source distributed query engine Apache Presto|
+|44|Amazon Athena    |Amazon Athena is an interactive query service that makes it easy to analyze data directly from s3. Athena is based off the open-source distributed query engine Apache Presto.|
 |45|Amazon CodeGuru |Amazon CodeGuru is machine-learning code analysis service. CodeGuru performs code-reviews and will suggest changes to improve the quality of code. It can show visual code profiles to pinpoint performance.|
 |46|Amazon Comprehend|Amazon Comprehend is a Natural Language Processor (NLP) service. Find relationships between text to produce insights. Looks at data such as Customer emails, support tickets, social media and makes predictions.|
 |47|Amazon Fraud Detector|Amazon Fraud Detector is a fully managed fraud detection a service. identify potentially fraudulent online activities such as online payment fraud and the creation of fake accounts.|
 |48|Amazon Forecast|Amazon Forecast is a time-series forecasting service. Forecast business outcomes such as product demand, resource needs or financial performance.|
 |49|Amazon Kendra|Amazon Kendra is a enterprise machine learning search engine service. Uses natural language to suggest answers to question instead of just simple keyword matching.|
-|50|Amazon Lex (V2)|Amazon Lex (V2) is a conversion interface service. With Lex you can build conversational voice and text chatbots|
-|51|Amazon Personalize|Amazon Personalize is a real-time recommendations service. Same technology used to make product recommendations to customers shopping on the Amazon platform|
+|50|Amazon Lex (V2)|Amazon Lex (V2) is a conversion interface service. With Lex you can build conversational voice and text chatbots.|
+|51|Amazon Personalize|Amazon Personalize is a real-time recommendations service. Same technology used to make product recommendations to customers shopping on the Amazon platform.|
 |52|Amazon Polly|Amazon Polly is a text-to-speech service. Upload your text and an audio file spoken by synthesized voice is generated.|
 |53|Amazon Rekognition| Amazon Rekognition is image and video recognition service. Analyze images and videos to detect and label objects, people, celebrities.|
 |54|Amazon Textract|Amazon Textract is a OCR (extract text from scanned documents) service. When you have paper forms, and you want to digitally extract the data.|
 |55|Amazon Translate| Amazon Translate neural machine learning text translation service. Uses deep learning models to deliver more accurate and natural sounding translations.|
-|56|AWS Data Exchange |AWS Data Exchange is a catalogue of third-party datasets. You can download for free subscribe or purchase datasets. Eg. COVID-19 Foot Traffic Data, IMDB TV and Movie data, Historical Weather Data|
+|56|AWS Data Exchange |AWS Data Exchange is a catalogue of third-party datasets. You can download for free subscribe or purchase datasets. Eg. COVID-19 Foot Traffic Data, IMDB TV and Movie data, Historical Weather Data.|
 |57|AWS Glue  |AWS Glue serverless data integration service that makes it easy for analytics users to discover, prepare, move, and integrate data from multiple sources.|
 |58|Data Lake |A data lake is a centralized data repository for unstructured and semi-structured data A Data Lake is intended to store vast amounts of data.|
 |59|Amazon API Gateway |Amazon API Gateway is a solution for creating secure APIs in your cloud environment at any scale. Create APIs that act as a front door for applications to access data, business logic, or functionality from back-end services.|
@@ -105,20 +105,20 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |68|Amazon EKS  |Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that eliminates the need to install, operate, and maintain your own Kubernetes control plane on AWS.|
 |69|KMS   |Key Management (KMS) Create and manage encryption keys Use with a variety of AWS services and in your apps.|
 |70|AWS Audit Manager  |AWS Audit Manager to continually audit your AWS usage to simplify risk and compliance assessment.|
-|71|ACM |Amazon Certificate (ACM) provision, manage, and deploy public and private SSL/TLS certificates for use with AWS services. ACM handles the complexity of creating and managing public SSL/TLS certificates for your AWS based websites and applications.|
-|72|Amazon Cognito   |Amazon Cognito is a customer identity and access management (CIAM) system It provides authentication, authorization, and user management for your web and mobile apps. It also provides authentication to AWS Services.|
+|71|ACM |Amazon Certificate Manager (ACM) provision, manage, and deploy public and private SSL/TLS certificates for use with AWS services. ACM handles the complexity of creating and managing public SSL/TLS certificates for your AWS based websites and applications.|
+|72|Amazon Cognito   |Amazon Cognito is a customer identity and access management (CIAM) system. It provides authentication, authorization, and user management for your web and mobile apps. It also provides authentication to AWS Services.|
 |73|Amazon Detective  |Amazon Detective analyze, investigate, and quickly identify the root cause of security findings or suspicious activities.|
 |74|AWS Directory Service    |AWS Directory Service provides multiple ways to use. A directory service maps the names of network resources to their network addresses. A directory service is shared information infrastructure for locating, managing, administering and organizing resources.|
 |75|AWS Firewall Manager |AWS Firewall Manager allows you to centrally configure and manage firewall rules across accounts and applications. AWS Services that can be managed AWS WAF, AWS WAF Classic, AWS Shield Advanced, Security Groups, Network Access Controls, AWS Network Firewall, Amazon Route53, Amazon Resolver DNS Firewall, Third Party Firewall Services.|
 |76|AWS Inspector  |AWS Inspector runs a security benchmark against specific EC2 instances. You can run a variety of security benchmarks. Can perform both Network and Host Assessments.|
 |77|AWS Macie  |Macie is a fully managed service that continuously monitors S3 data access activity for anomalies, and generates detailed alerts when it detects risk of unauthorized access or inadvertent data leaks.|
 |78|AWS Security Hub  |AWS Security Hub is a cloud security posture management (CSPM). CSPMs allow you generate a security score to determine your security posture.|
-|79|AWS Secrets Manager |Protect secrets needed to access your applications and services. Easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle|
+|79|AWS Secrets Manager |Protect secrets needed to access your applications and services. Easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.|
 |80|Amazon Q   |Amazon Q is an Al chatbot using multiple LLM models via Amazon Bedorck Ask Amazon Q a question similar to ChatGPT or other generative Al chat services.|
 |81|Amazon Code Whisperer   |Amazon Code Whisperer is a real-time Al coding companion. Generates suggested code while you're writing code.|
 |82|Amazon MSK |Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service that enables you to build and run applications that use Apache Kafka to process streaming data.|
-|83|AWS Shield  |AWS Shield is a managed DDoS (Distributed Denial of Service) protection service that safeguards applications running on AWS|
-|84|WAF   |AWS Web Application Firewall (WAF) protect your web applications from common web exploits|
+|83|AWS Shield  |AWS Shield is a managed DDoS (Distributed Denial of Service) protection service that safeguards applications running on AWS.|
+|84|WAF   |AWS Web Application Firewall (WAF) protect your web applications from common web exploits.|
 |85|CloudHSM   |CloudHSM is a single-tenant HSM as a service that automates hardware provisioning, software patching, high availability and backups.|
 |86|Guard Duty   |Guard Duty is a threat detection service that continuously monitors for malicious, suspicious activity and unauthorized behavior. It uses Machine Learning to analyze the following AWS CloudTrail Logs, VPC Flow Logs, DNS logs|
 |87|AWS Health Dashboards   |Service Health Dashboard shows the general status of AWS services &  Personal Health Dashboard provides alerts and guidance for AWS events that might affect your environment.|
