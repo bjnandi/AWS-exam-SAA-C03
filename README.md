@@ -35,11 +35,11 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 
 |NO|Title            | Sort Description|
 |:-|:----------------|:----------------|
-|1|Amazon S3         | S3(Simple Storage Service) is a cloud object storage with industry-leading scalability, data availability, security, and performance. Object storage is a data storage architecture that manages data as objects, as opposed to other storage architectures.|
+|1|Amazon S3         | S3 (Simple Storage Service) is a cloud object storage with industry-leading scalability, data availability, security, and performance. Object storage is a data storage architecture that manages data as objects, as opposed to other storage architectures.|
 |2|VPC               |AWS Virtual Private Cloud (VPC) is a logically isolated virtual network. AWS VPC resembles a traditional network you'd operate in your own datacenter.|
 |3|IAM               |AWS Identity and Access Management (IAM) you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.|
 |4|EC2               |Elastic Compute Cloud (EC2) is a highly configurable virtual server. EC2 is resizable compute capacity. It takes minutes to launch new instances. Anything and everything on AWS uses EC2 Instance underneath.|
-|5|AMIs               |Amazon Machine Image (AMI) provides the information required to launch an instance. You can turn your EC2 instances into |AMIs so you can create copies of your servers.|
+|5|AMIs               |Amazon Machine Image (AMI) provides the information required to launch an instance. You can turn your EC2 instances into AMIs so you can create copies of your servers.|
 |6|ASG               |An Auto Scaling Group (ASG) contains a collection of EC2 instances that are treated as a group for the purposes of automatic scaling and management.|
 |7|ELB               |Elastic Load Balancer (ELB) is a suite of load balancers used to balance/distribute traffic to multiple EC2, ECS, Fargate and EKS instances|
 |8|Route 53          |Route 53 is a Domain Name Service (DNS) think GoDaddy or NameCheap but with integrations with AWS Services.|
