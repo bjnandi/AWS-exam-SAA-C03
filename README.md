@@ -120,7 +120,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |83|AWS Shield  |AWS Shield is a managed DDoS (Distributed Denial of Service) protection service that safeguards applications running on AWS.|
 |84|WAF   |AWS Web Application Firewall (WAF) protect your web applications from common web exploits.|
 |85|CloudHSM   |CloudHSM is a single-tenant HSM as a service that automates hardware provisioning, software patching, high availability and backups.|
-|86|Guard Duty   |Guard Duty is a threat detection service that continuously monitors for malicious, suspicious activity and unauthorized behavior. It uses Machine Learning to analyze the following AWS CloudTrail Logs, VPC Flow Logs, DNS logs|
+|86|Guard Duty   |Guard Duty is a threat detection service that continuously monitors for malicious, suspicious activity and unauthorized behavior. It uses Machine Learning to analyze the following AWS CloudTrail Logs, VPC Flow Logs, DNS logs.|
 |87|AWS Health Dashboards   |Service Health Dashboard shows the general status of AWS services &  Personal Health Dashboard provides alerts and guidance for AWS events that might affect your environment.|
 |88|AWS Artifact  |AWS Artifact is a self-serve portal for on-demand access to AWS compliance reports.|
 |89|AWS Storage Gateway |AWS Storage Gateway connects on-premise software applications with cloud-based storage. Amazon S3 File Gateway allows your files to be stored as objects inside your S3 buckets. Access your files through a Network File System (NFS) or SMB mount point.|
