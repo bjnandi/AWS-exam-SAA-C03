@@ -133,8 +133,9 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |96|AWS Systems Manager|AWS Systems Manager is the operations hub for your AWS applications and resources and a secure end-to-end management solution for hybrid and multicloud environments that enables secure operations at scale.|
 |97|Amazon Pinpoint|Amazon Pinpoint Engage customers across multiple communication channels that helps you engage with your customers by sending email, SMS, and push notifications messages.|
 |98|S3 Multipart Upload|Multipart upload allows you to upload a single object as a set of parts. Each part is a contiguous portion of the object's data. You can upload these object parts independently and in any order. If transmission of any part fails, you can retransmit that part without affecting other parts. After all parts of your object are uploaded, Amazon S3 assembles these parts and creates the object.|
-
-
+|99|Service Control Policy|Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for the IAM users and IAM roles in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines.|
+|100|Quicksight|Amazon Quicksight is a business analytics service provided by AWS. Quicksight provides easy to use tools to build visualizations, perform ad-hoc analysis, get business insights from the data and share the results with others.|
+|101|Amazon EMR| Amazon EMR (previously known as Amazon Elastic MapReduce) is a tool for big data processing and analysis. Amazon markets EMR as an expandable, low-configuration service that provides an alternative to running on-premises cluster computing. Amazon EMR is based on Apache Hadoop, a Java-based programming framework that supports the processing of large data sets in a distributed computing environment.|
 
 
 
