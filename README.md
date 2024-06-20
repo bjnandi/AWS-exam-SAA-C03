@@ -144,8 +144,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |99|Service Control Policy|Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for the IAM users and IAM roles in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines.|
 |100|Quicksight|Amazon Quicksight is a business analytics service provided by AWS. Quicksight provides easy to use tools to build visualizations, perform ad-hoc analysis, get business insights from the data and share the results with others.|
 |101|Amazon EMR| Amazon EMR (previously known as Amazon Elastic MapReduce) is a tool for big data processing and analysis. Amazon markets EMR as an expandable, low-configuration service that provides an alternative to running on-premises cluster computing. Amazon EMR is based on Apache Hadoop, a Java-based programming framework that supports the processing of large data sets in a distributed computing environment.|
-
-
+|102|AWS Outposts|AWS Outposts is a fully managed service that extends AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a consistent hybrid experience. AWS Outposts is good for workloads that require low latency access to on-premises systems, local data processing, or local data storage.|
 
 
 ## For more Details 
