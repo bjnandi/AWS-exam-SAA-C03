@@ -43,7 +43,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 
 |NO|Title            | Sort Description|
 |:-|:----------------|:----------------|
-|1|Amazon S3         | S3 (Simple Storage Service) is a cloud object storage with industry-leading scalability, data availability, security, and performance. Object storage is a data storage architecture that manages data as objects, as opposed to other storage architectures.|
+|1|Amazon S3         | S3 (Simple Storage Service) is a cloud object storage with industry-leading scalability, data availability, security, and performance. Object storage is a data storage architecture that manages data as objects, as opposed to other storage architectures. Type of S3:	S3 Standard, S3 Intelligent-Tiering, S3 Express One Zone, S3 Standard-IA, S3 One Zone-IA, S3 Glacier Instant Retrieval, S3 Glacier Flexible Retrieval, S3 Glacier Deep Archive.|
 |2|VPC               |AWS Virtual Private Cloud (VPC) is a logically isolated virtual network. AWS VPC resembles a traditional network you'd operate in your own datacenter.|
 |3|IAM               |AWS Identity and Access Management (IAM) you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.|
 |4|EC2               |Elastic Compute Cloud (EC2) is a highly configurable virtual server. EC2 is resizable compute capacity. It takes minutes to launch new instances. Anything and everything on AWS uses EC2 Instance underneath.|
@@ -145,7 +145,9 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |100|Quicksight|Amazon Quicksight is a business analytics service provided by AWS. Quicksight provides easy to use tools to build visualizations, perform ad-hoc analysis, get business insights from the data and share the results with others.|
 |101|Amazon EMR| Amazon EMR (previously known as Amazon Elastic MapReduce) is a tool for big data processing and analysis. Amazon markets EMR as an expandable, low-configuration service that provides an alternative to running on-premises cluster computing. Amazon EMR is based on Apache Hadoop, a Java-based programming framework that supports the processing of large data sets in a distributed computing environment.|
 |102|AWS Outposts|AWS Outposts is a fully managed service that extends AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a consistent hybrid experience. AWS Outposts is good for workloads that require low latency access to on-premises systems, local data processing, or local data storage.|
-
+|103|Amazon Transcribe| Automatic Speech Recognition Amazon Transcribe provides high-quality and affordable speech-to-text.|
+|104| Amazon SageMaker|Amazon SageMaker provides machine learning (ML) capabilities for data scientists and developers to prepare, build, train, and deploy high-quality ML models efficiently.|
+|105|Active Directory| AWS Directory Service for Microsoft Active Directory is an actual Microsoft Active Directory in the AWS Cloud.|
 
 ## For more Details 
 <b>freeCodeCamp.org Youtube Channel</b><br>
