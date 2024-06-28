@@ -116,7 +116,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |71|ACM |Amazon Certificate Manager (ACM) provision, manage, and deploy public and private SSL/TLS certificates for use with AWS services. ACM handles the complexity of creating and managing public SSL/TLS certificates for your AWS based websites and applications.|
 |72|Amazon Cognito   |Amazon Cognito is a customer identity and access management (CIAM) system. It provides authentication, authorization, and user management for your web and mobile apps. It also provides authentication to AWS Services.|
 |73|Amazon Detective  |Amazon Detective analyze, investigate, and quickly identify the root cause of security findings or suspicious activities.|
-|74|AWS Directory Service    |AWS Directory Service provides multiple ways to use. A directory service maps the names of network resources to their network addresses. A directory service is shared information infrastructure for locating, managing, administering and organizing resources.|
+|74|AWS Directory Service |AWS Directory Service provides multiple ways to use. A directory service maps the names of network resources to their network addresses. A directory service is shared information infrastructure for locating, managing, administering and organizing resources. AWS Directory Service for Microsoft Active Directory is an actual Microsoft Active Directory in the AWS Cloud.||
 |75|AWS Firewall Manager |AWS Firewall Manager allows you to centrally configure and manage firewall rules across accounts and applications. AWS Services that can be managed AWS WAF, AWS WAF Classic, AWS Shield Advanced, Security Groups, Network Access Controls, AWS Network Firewall, Amazon Route53, Amazon Resolver DNS Firewall, Third Party Firewall Services.|
 |76|AWS Inspector  |AWS Inspector runs a security benchmark against specific EC2 instances. You can run a variety of security benchmarks. Can perform both Network and Host Assessments.|
 |77|AWS Macie  |Macie is a fully managed service that continuously monitors S3 data access activity for anomalies, and generates detailed alerts when it detects risk of unauthorized access or inadvertent data leaks.|
@@ -147,8 +147,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |102|AWS Outposts|AWS Outposts is a fully managed service that extends AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a consistent hybrid experience. AWS Outposts is good for workloads that require low latency access to on-premises systems, local data processing, or local data storage.|
 |103|Amazon Transcribe| Automatic Speech Recognition Amazon Transcribe provides high-quality and affordable speech-to-text.|
 |104| Amazon SageMaker|Amazon SageMaker provides machine learning (ML) capabilities for data scientists and developers to prepare, build, train, and deploy high-quality ML models efficiently.|
-|105|Active Directory| AWS Directory Service for Microsoft Active Directory is an actual Microsoft Active Directory in the AWS Cloud.|
-|106| AWS Resource Groups| A resource group is a collection of AWS resources that are all in the same AWS Region and that match the criteria specified in the group's query. Two types of queries Tag-based & CloudFormation stack-based.|
+|105| AWS Resource Groups| A resource group is a collection of AWS resources that are all in the same AWS Region and that match the criteria specified in the group's query. Two types of queries Tag-based & CloudFormation stack-based.|
 
 ## For more Details 
 <b>freeCodeCamp.org Youtube Channel</b><br>
