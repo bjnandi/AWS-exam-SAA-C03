@@ -31,11 +31,11 @@ Your results for the exam are reported as a scaled score of <b>100–1,000</b>. 
 
 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 
-## Main Sections and topics 
+## Main Sections and Topics 
 | Sections 1 | Sections 2 | Sections 3 | Sections 4 | Sections 5 | Sections 6 | Sections 7 |
 |:----------|:----------|:----------|:----------|:----------|:----------|:----------|
-| S3  | ASG | CloudFront | Containers - ECS | AWS Snow | Kinesis |  ACM |
-| EC2 | ELB | Global Accelerator | API Gateway | EFS, FSx | Athena | Secrets Manager |
+| S3  | ASG | CloudFront | Containers - ECS | AWS Snow | ACM  | Kinesis  |
+| EC2 | ELB | Global Accelerator | API Gateway | EFS, FSx | Secrets Manager | Athena  |
 | VPC | SNS, SES | Databases | CloudWatch  | DynamoDB | Encryption | Macie |
 | IAM | SQS | Analytics | CloudTrail | Lambda | Firewall Manager | Inspector |
 
@@ -150,5 +150,6 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 |105| AWS Resource Groups| A resource group is a collection of AWS resources that are all in the same AWS Region and that match the criteria specified in the group's query. Two types of queries Tag-based & CloudFormation stack-based.|
 
 ## For more Details 
-<b>freeCodeCamp.org Youtube Channel</b><br>
-https://www.youtube.com/watch?v=c3Cn4xYfxJY&ab_channel=freeCodeCamp.org
+<b>Youtube Channel</b><br>
+https://www.youtube.com/watch?v=c3Cn4xYfxJY&ab_channel=freeCodeCamp.org<br>
+https://www.youtube.com/playlist?list=PL7GozF-qZ4KeQtVB9Nt_gXwDD0HvykrsD
