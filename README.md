@@ -34,7 +34,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 ## Main Sections and Topics 
 | Sections 1 | Sections 2 | Sections 3 | Sections 4 | Sections 5 | Sections 6 | Sections 7 |
 |:----------|:----------|:----------|:----------|:----------|:----------|:----------|
-| S3  | ASG | CloudFront | Containers - ECS | AWS Snow | ACM  | Kinesis  |
+| S3  | ASG | CloudFront | ECS | AWS Snow | ACM  | Kinesis  |
 | EC2 | ELB | Global Accelerator | API Gateway | EFS, FSx | Secrets Manager | Athena  |
 | VPC | SNS, SES | Databases | CloudWatch  | DynamoDB | Encryption | Macie |
 | IAM | SQS | Analytics | CloudTrail | Lambda | Firewall Manager | Inspector |
