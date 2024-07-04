@@ -32,7 +32,7 @@ Your results for the exam are reported as a scaled score of <b>100–1,000</b>. 
 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 
 ## Main Sections and Topics 
-| Sections 1 | Sections 2 | Sections 3 | Sections 4 | Sections 5 | Sections 6 | Sections 7 |
+| Section 1 | Section 2 | Section 3 | Section 4 | Section 5 | Section 6 | Section 7 |
 |:----------|:----------|:----------|:----------|:----------|:----------|:----------|
 | S3  | ASG | CloudFront | AWS Snow | ECS  | ACM  | Kinesis  |
 | EC2 | ELB | GlobalAccelerator | EBS, EFS, FSx | API Gateway | Secrets Manager | Athena  |
