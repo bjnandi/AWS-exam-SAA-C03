@@ -154,5 +154,5 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 https://www.youtube.com/watch?v=c3Cn4xYfxJY&ab_channel=freeCodeCamp.org<br>
 https://www.youtube.com/playlist?list=PL7GozF-qZ4KeQtVB9Nt_gXwDD0HvykrsD
 
-### 🎉 How to pass the AWS Certified Solutions Architect -Associate(SAA-C03) in My Experience & Process
+<b>🎉 How to pass the AWS Certified Solutions Architect -Associate(SAA-C03) in My Experience & Process</b><br>
 https://medium.com/@bjnandi/how-to-pass-the-aws-certified-solutions-architect-associate-saa-c03-in-my-experience-process-e941c69044ec
